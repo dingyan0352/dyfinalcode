@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="czk@59.67.107.18:6666 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="59.16.107.18">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dy/RankEncoder-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="czk@59.67.107.18:6666 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/czk/dy/RankEncoder-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qii@59.67.107.118:2233 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/czk/dy/RankEncoder-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qii@59.67.107.118:2233 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/qii/dy/RankEncoder-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qii@59.67.107.118:2233 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/qii/dy/RankEncoder-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
